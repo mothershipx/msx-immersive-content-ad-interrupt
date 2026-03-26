@@ -1,0 +1,7 @@
+# MSX Product Configuration
+product: Immersive Content Ad-Interrupt Fatigue
+slug: immersive-content-ad-interrupt
+org: mothershipx
+status: pre-mvp
+auto_deploy: true
+subdomain: immersive-content-ad-interrupt.msx.dev
